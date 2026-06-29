@@ -2,12 +2,7 @@
 # Arquitecto: Felipe
 # Equipo: Gino, Billie, Fabricio, Dana
 
-class ClimaClient:
-    """Clase asignada a Gino para gestionar la API y Regex."""
-    def obtener_datos(self):
-        print("[Gino] Obteniendo datos de la API...")
-        # Gino: Aquí retorna la lista de diccionarios según el contrato
-        return [{"fecha": "2026-06-28", "temperatura": 22.5, "humedad": 60}]
+from clima_client import ClimaClient
 
 class AnalizadorDatos:
     """Clase asignada a Billie para limpieza y transformación."""
