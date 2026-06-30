@@ -38,7 +38,7 @@ class Visualizador:
         
         sns.lineplot(
             data=self.df, 
-            x='datetime', 
+            x='fecha', 
             y='temperatura', 
             color='royalblue', 
             linewidth=2, 
