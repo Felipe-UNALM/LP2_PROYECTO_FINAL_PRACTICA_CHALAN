@@ -3,7 +3,7 @@
 # Equipo: Gino, Billie, Fabricio, Dana
 
 from clima_client import ClimaClient
-from analizador_datos import AnalizadorDatos
+from src.analizador_datos import AnalizadorDatos
 from visualizador import Visualizador
 from documentador import Documentador
 
