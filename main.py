@@ -4,7 +4,7 @@
 
 from clima_client import ClimaClient
 from src.analizador_datos import AnalizadorDatos
-from visualizador import Visualizador
+from src.visualizador import Visualizador
 from documentador import Documentador
 
 
