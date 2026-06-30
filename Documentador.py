@@ -11,4 +11,3 @@ class Documentador:
 
         print("\nREADME ✓")
         print("Notebook ✓")
-        print("Pitch ✓")
