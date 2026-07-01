@@ -1,5 +1,17 @@
 # 🌍 Global Climate Trends & Risk Monitor (GCT-RM)
 
+## Integrantes del proyecto
+
+* Farro Ochoa, Felipe Roberto
+* Dávalos Escalante, Billie Sebastian
+* Herrada Peche, Gino Andres
+* Alva Guzman, Dana Luciana
+* Rodriguez Lopez, Fabricio
+
+## Link del  video 
+
+https://drive.google.com/drive/folders/1wAPzpG-fBQcoalmPnUU9T13WUeJ1mjuD
+
 ## Descripción
 
 Global Climate Trends & Risk Monitor (GCT-RM) es un proyecto desarrollado en Python cuyo propósito es recopilar, procesar y analizar datos meteorológicos para identificar tendencias climáticas, detectar anomalías y facilitar la toma de decisiones basada en evidencia.
@@ -113,18 +125,9 @@ GCT-RM/
 
 ---
 
-## Integrantes
-
-* Farro Ochoa, Felipe Roberto
-* Dávalos Escalante, Billie Sebastian
-* Herrada Peche, Gino Andres
-* Alva Guzman, Dana Luciana
-* Rodriguez Lopez, Fabricio
 
 ## Licencia
 
 Proyecto desarrollado con fines académicos.
 
-## Link del  video 
 
-https://drive.google.com/drive/folders/1wAPzpG-fBQcoalmPnUU9T13WUeJ1mjuD
