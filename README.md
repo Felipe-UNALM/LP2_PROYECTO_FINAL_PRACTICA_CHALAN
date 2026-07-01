@@ -124,3 +124,7 @@ GCT-RM/
 ## Licencia
 
 Proyecto desarrollado con fines académicos.
+
+## Link del  video 
+
+https://drive.google.com/drive/folders/1wAPzpG-fBQcoalmPnUU9T13WUeJ1mjuD
