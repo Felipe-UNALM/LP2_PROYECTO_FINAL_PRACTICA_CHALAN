@@ -96,11 +96,11 @@ GCT-RM/
 
 | Rol                        | Integrante | Responsabilidades                                                                                          |
 | -------------------------- | ---------- | ---------------------------------------------------------------------------------------------------------- |
-| Arquitecto (Líder)         | Felipe     | Diseño de la arquitectura POO, orquestación de `main.py`, gestión del repositorio y `requirements.txt`.    |
+| Arquitecto                 | Felipe     | Diseño de la arquitectura POO, orquestación de `main.py`, gestión del repositorio y `requirements.txt`.    |
 | Especialista API/Redes     | Gino       | Implementación de `ClimaClient`, solicitudes HTTP y validación de formatos mediante expresiones regulares. |
 | Analista de Datos          | Billie     | Limpieza, transformación y análisis de datos utilizando Pandas.                                            |
-| Visualizador               | Fabricio   | Desarrollo de gráficos y visualizaciones para representar los resultados del análisis.                     |
-| Documentador / Presentador | Dana       | Elaboración del README, Notebook final y estructuración del pitch de presentación.                         |
+| Visualizador               | Fabricio   | Desarrollo de gráficos y visualizaciones para representar los resultados del análisis.                    |
+| Documentador               | Dana       | Elaboración del README, Notebook final y `main.py`                 |
 
 ---
 

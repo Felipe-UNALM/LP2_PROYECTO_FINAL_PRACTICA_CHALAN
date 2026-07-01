@@ -17,4 +17,3 @@ class Documentador:
         print("\nDocumentación preparada:")
         print("✓ README")
         print("✓ Notebook")
-        print("✓ Pitch de venta")
